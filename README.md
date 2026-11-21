@@ -6,7 +6,10 @@ Propósito
 Practicar los fundamentos de redes de datos y seguridad: simular una red local, capturar tráfico y analizar los paquetes.
 
 Topología
-*(En desarrollo: aquí agregaré la imagen de la topología hecha en Cisco Packet Tracer.)*
+![Topología de red](topologia.png)
+
+Verificación de conectividad
+![Ping exitoso entre PC0 y PC1](ping-exitoso.png)
 
 Herramientas
 - Cisco Packet Tracer

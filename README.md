@@ -6,7 +6,7 @@ Propósito
 Practicar los fundamentos de redes de datos y seguridad: simular una red local, capturar tráfico y analizar los paquetes.
 
 Topología
-![Topología de red](topologia.png.png)
+![Topología de red](Topologia.png.png)
 
 Verificación de conectividad
 ![Ping exitoso entre PC0 y PC1](ping-exitoso.png)
